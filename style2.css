@@ -1,0 +1,19 @@
+body {
+	background-color: #C5D5EA;
+	color: #22223B;
+	font-family: monospace;
+}
+
+.container {
+	background-color: #7392B7;
+	margin-top: 50px;
+	font-family: monospace;
+
+}
+
+img {
+	width: 100px;
+	border-radius: 50px;
+	border-block: 50px;
+}
+
